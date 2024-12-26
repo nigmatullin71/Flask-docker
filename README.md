@@ -1,5 +1,6 @@
 ## Использование Docker в приложении Flask с БД
-![image](https://github.com/user-attachments/assets/059429b9-4f57-434c-81fc-ecad32f228ef)
+![image](https://github.com/user-attachments/assets/af3ee406-8046-4e93-af89-15565e9a05c2)
+
 
 ### Сборка и запуск контейнера
 ![image](https://github.com/user-attachments/assets/bbd6674e-bf27-4fc4-a7ac-9b4ff2542307)
